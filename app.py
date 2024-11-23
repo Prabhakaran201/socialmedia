@@ -115,7 +115,7 @@ def main_page():
         else:
             df = pd.read_csv(fl, encoding="ISO-8859-1")
     else:
-        df = pd.read_excel("C:\\Users\\jayapratha\\Desktop\\social\\sentimentdataset.xlsx", engine="openpyxl")
+        df = pd.read_excel("sentimentdataset.xlsx", engine="openpyxl")
 
 # Convert 'Timestamp' to datetime if necessary
     df["Timestamp"] = pd.to_datetime(df["Timestamp"])
