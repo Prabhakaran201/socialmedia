@@ -83,7 +83,7 @@ def login_page():
                 unsafe_allow_html=True
             )
     # Add the background image
-    add_bg_from_local("C:/Users/jayapratha/Desktop/pro/static/image.jpg")  # Update with your image path
+    add_bg_from_local("static/image.jpg")  # Update with your image path
 
     username = st.text_input("Username", key="login_username")
     password = st.text_input("Password", type="password", key="login_password")
