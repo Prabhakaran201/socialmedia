@@ -43,6 +43,7 @@ pip install -r requirements.txt
 4️⃣ Run the Application
 
 streamlit run app.py
+##
 
 📊 Sample Dashboard Preview
 
@@ -51,7 +52,8 @@ streamlit run app.py
     Implement deep learning-based sentiment analysis
     Integrate real-time social media data scraping
     Add multi-language support for sentiment analysis
-!(https://github.com/Prabhakaran201/socialmedia/blob/master/image/Screenshot%20(26).png)
+![Dashboard Preview](https://raw.githubusercontent.com/Prabhakaran201/socialmedia/master/image/Screenshot%20(26).png)
+
 🤝 Contributing
 
 Contributions are welcome! Feel free to submit a pull request or report issues.
