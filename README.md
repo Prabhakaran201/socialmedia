@@ -29,7 +29,7 @@ This project presents an **interactive Streamlit dashboard** that analyzes socia
 #1️⃣ Clone the Repository**  
 
 git clone https://github.com/yourusername/Analyzing-Social-Media-Sentiments.git
-cd Analyzing-Social-Media-Sentiments
+#cd Analyzing-Social-Media-Sentiments
 
 #2️⃣ Create a Virtual Environment
 
@@ -56,6 +56,11 @@ streamlit run app.py
     Integrate real-time social media data scraping
     Add multi-language support for sentiment analysis
 ![Dashboard Preview](https://raw.githubusercontent.com/Prabhakaran201/socialmedia/master/image/Screenshot%20(26).png)
+![Dashboard Preview](https://raw.githubusercontent.com/Prabhakaran201/socialmedia/master/image/Screenshot%20(27).png)
+![Dashboard Preview](https://raw.githubusercontent.com/Prabhakaran201/socialmedia/master/image/Screenshot%20(28).png)
+![Dashboard Preview](https://raw.githubusercontent.com/Prabhakaran201/socialmedia/master/image/Screenshot%20(31).png)
+![Dashboard Preview](https://raw.githubusercontent.com/Prabhakaran201/socialmedia/master/image/Screenshot%20(33).png)
+![Dashboard Preview](https://raw.githubusercontent.com/Prabhakaran201/socialmedia/master/image/Screenshot%20(23).png)
 
 🤝 Contributing
 
