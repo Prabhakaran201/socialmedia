@@ -26,8 +26,8 @@ This project presents an **interactive Streamlit dashboard** that analyzes socia
 
 
 ## 🔧 Installation & Setup  
-### **1️⃣ Clone the Repository**  
-```sh
+#1️⃣ Clone the Repository**  
+
 git clone https://github.com/yourusername/Analyzing-Social-Media-Sentiments.git
 cd Analyzing-Social-Media-Sentiments
 
