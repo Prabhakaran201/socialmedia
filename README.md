@@ -31,8 +31,11 @@ This project presents an **interactive Streamlit dashboard** that analyzes socia
 git clone https://github.com/yourusername/Analyzing-Social-Media-Sentiments.git
 cd Analyzing-Social-Media-Sentiments
 
-2️⃣ Create a Virtual Environment
+#2️⃣ Create a Virtual Environment
+
 python -m venv venv
+
+# Activate the Virtual Environment
 source venv/bin/activate  # For macOS/Linux
 venv\Scripts\activate     # For Windows
 
